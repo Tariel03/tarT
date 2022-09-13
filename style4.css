@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Oswasld", sans-serif;
+}
+
+.header_content{
+    display: flex;
+    -webkit-justify-content: space-between;
+    align-items: center;
+
+}
+.logo__div{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000000;
+    padding-left: 100px;
+
+
+}
+.input__div{
+    display: flex;
+    width: 100px;
+    height: 20px;
+    align-items: center;
+    padding-right: 100px;
+
+}
+
+
+.menu__ul{
+    height: 50px;
+    background-color: #5f6368;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+
+.menu__a{
+    text-decoration: none;
+    color:#000000;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+main{
+    margin-top: 50px;
+}
+.div__text{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+}
+.div__text_logo{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000000;
+    padding-bottom: 20px;
+
+}
+.div__text_text{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    width: 1200px;
+
+}
+footer{
+    background-color: #5f6368;
+    height: 20%;
+    display: flex;
+    align-content: center;
+    animation: normal;
+    justify-content: center;
+}
+.company__name{
+    text-decoration: underline;
+}
+.photo1{
+    width: 30%;
+    padding: 10px;
+    height: 400px;
+
+}
+.photos{
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+}
+.menu__a:hover{
+    color:#34a853;
+}
+
+footer{
+    background-color: #5f6368;
+    height: 20%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.company__name{
+    text-decoration: underline;
+}

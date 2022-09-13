@@ -1,0 +1,170 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Oswasld", sans-serif;
+}
+
+.header_content{
+    display: flex;
+    -webkit-justify-content: space-between;
+    align-items: center;
+
+}
+.logo__div{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000000;
+    padding-left: 100px;
+
+
+}
+.input__div{
+    display: flex;
+    width: 100px;
+    height: 20px;
+    align-items: center;
+    padding-right: 100px;
+
+}
+
+
+.menu__ul{
+    height: 50px;
+    background-color: #5f6368;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+
+.menu__a{
+    text-decoration: none;
+    color:#000000;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.kto_my__content{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+
+}
+.kto__my{
+    padding: 20px;
+}
+
+.kto_my__content_text {
+    width: 600px;
+    justify-self: center;
+    align-self: center;
+    padding-left: 50px;
+    line-height: 30px;
+}
+.first__orange{
+    display: flex;
+}
+.second__orange{
+    display: flex;
+    padding-top: 100px;
+
+}
+.orange__pic{
+    width: 200px;
+    height: 120px;
+}
+.second_u__text{
+    width: 200px;
+}
+.first__part{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.first_u__text{
+    color: #446e6e;
+}
+
+.information{
+    display: flex;
+
+}
+.our__news{
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.button__more{
+    width: 100px;
+    align-self: flex-end;
+    background-color: #5f6368;
+    color: black;
+    justify-self: flex-end;
+    margin-top: 20%;
+    margin-left: 85%;
+    border-radius: 10%;
+}
+.first__orange:hover,.second__orange:hover{
+    background-color: orange;
+}
+.menu__a:hover{
+    color:#34a853;
+}
+.who{
+    padding: 20px;
+}
+
+.who__content{
+    display: flex;
+}
+.who__text{
+    width: 70%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    line-height: 30px;
+}
+.div__li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.who__ol{
+    list-style-type: "\2611";
+
+}.testi{
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+ }
+ .testi__author{
+     display: flex;
+     font-size: larger;
+     font-weight: bold;
+     color: #1a73e8;
+ }
+.more{
+    width: 100px;
+    align-self: flex-end;
+    background-color: #5f6368;
+    color: black;
+    justify-self: center;
+    border-radius: 10%;
+}
+footer{
+    background-color: #5f6368;
+    height: 20%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.company__name{
+    text-decoration: underline;
+}

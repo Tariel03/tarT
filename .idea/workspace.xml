@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b315c6cf-bae4-4105-a6ec-c770e5c5821e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ENTWDcCWdbCeDcavYImE0TIqJP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/iskender/Tariel/tarT&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b315c6cf-bae4-4105-a6ec-c770e5c5821e" name="Changes" comment="" />
+      <created>1662435071778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662435071778</updated>
+      <workItem from="1662435072956" duration="171000" />
+      <workItem from="1662435254463" duration="3183000" />
+      <workItem from="1662438440339" duration="785000" />
+      <workItem from="1662515998805" duration="123000" />
+      <workItem from="1662516391471" duration="14000" />
+      <workItem from="1662516407419" duration="2000" />
+      <workItem from="1662516546242" duration="338000" />
+      <workItem from="1662517044244" duration="3767000" />
+      <workItem from="1662521071140" duration="2141000" />
+      <workItem from="1662565867709" duration="9568000" />
+      <workItem from="1662617104733" duration="1424000" />
+      <workItem from="1662620069024" duration="876000" />
+      <workItem from="1662640324046" duration="7000" />
+      <workItem from="1662646604505" duration="3695000" />
+      <workItem from="1662724447660" duration="30000" />
+      <workItem from="1662908152239" duration="10673000" />
+      <workItem from="1662980799582" duration="3193000" />
+      <workItem from="1663041188924" duration="3109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

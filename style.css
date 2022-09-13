@@ -1,0 +1,248 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Oswasld", sans-serif;
+}
+
+.header_content{
+    display: flex;
+    -webkit-justify-content: space-between;
+    align-items: center;
+
+}
+ .logo__div{
+     font-family: 'Oswald', sans-serif;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 36px;
+     line-height: 53px;
+     text-transform: uppercase;
+     color: #000000;
+     padding-left: 100px;
+
+
+ }
+ .input__div{
+     display: flex;
+     width: 100px;
+     height: 20px;
+     align-items: center;
+     padding-right: 100px;
+
+ }
+
+
+.menu__ul{
+    height: 50px;
+    background-color: #5f6368;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+
+.menu__a{
+    text-decoration: none;
+    color:#000000;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.welcome{
+    display: flex;
+}
+.welcome__content{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    padding-left: 50px;
+}
+
+.welcome__photo{
+    width: 400px;
+    height: 300px;
+    margin-left: 40%;
+}
+.welcome__text{
+    width: 500px;
+    justify-content: flex-end;
+    align-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.welcome__button{
+    width: 100px;
+    margin-left: 100px;
+}
+.welcome__button:hover{
+    color:aqua;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left:50px;
+    padding-right: 50px;
+}
+.web__design{
+    display: flex;
+    background-color: #34a853;
+    border-radius: 20px;
+    padding: 20px 20px;
+    width: 500px;
+    height: 200px;
+
+}
+.web__button{
+    width: 100px;
+    height: 30px;
+    margin-right: 70px;
+    border-radius: 20%;
+    align-self: flex-end;
+    justify-self: flex-end;
+    color:black;
+    background-color: #53da53;
+}
+.web_d__text{
+    display: flex;
+    width: 500px;
+    height: 100px;
+    flex-direction: column;
+    color:white;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+.web__text{
+    display: flex;
+    justify-self: center;
+    align-self: flex-end;
+}
+
+.menu__a:hover{
+    color:#34a853;
+}
+.web__logo{
+    justify-self: center;
+
+}
+
+.orange__pic{
+    width: 200px;
+    height: 120px;
+}
+
+.first__orange{
+    display: flex;
+}
+
+.news{
+    display: flex;
+    flex-direction: row;
+}
+.updates{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+}
+.second_u__text{
+    width: 200px;
+}
+.first__part{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.first_u__text{
+    color: #446e6e;
+}
+.second__orange{
+    display: flex;
+    padding-top: 60px;
+
+}
+.third__orange{
+    display: flex;
+    padding-top: 60px;
+
+}
+.who__text{
+    width: 400px;
+    padding-bottom: 20px;
+    color: #1a73e8;
+    padding-top: 20px;
+    text-indent: 10px;
+}
+.who{
+    padding-left: 200px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+span{
+    text-decoration: underline;
+    color: #1a73e8;
+
+}
+.who__ol{
+    list-style-type: "\2611";
+    padding-top: 100px;
+    margin-left: 20px;
+    line-height: 40px;
+    font-size: large;
+    justify-content: center;
+    padding-left: 40%;
+}
+.who__oll{
+    list-style-type: "\2611";
+    line-height: 40px;
+    padding-top: 135px;
+    margin-left: 20px;
+    font-size: large;
+    justify-content: center;
+    padding-left: 40%;
+}
+.big__orange{
+    width: 500px;
+}
+.who__second{
+    padding-left: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    width: 100px;
+    align-self: flex-end;
+    background-color: #5f6368;
+    color: black;
+    justify-self: flex-end;
+}
+.button__more{
+    width: 100px;
+    align-self: flex-end;
+    background-color: #5f6368;
+    color: black;
+    justify-self: flex-end;
+    margin-left: 75%;
+}
+
+.first__orange:hover,.second__orange:hover,.third__orange:hover{
+    background-color: orange;
+}
+
+footer{
+    background-color: #5f6368;
+    height: 20%;
+    display: flex;
+    align-content: center;
+    animation: normal;
+    justify-content: center;
+}
+.company__name{
+    text-decoration: underline;
+}

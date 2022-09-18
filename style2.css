@@ -151,8 +151,9 @@
      color: #1a73e8;
  }
 .more{
+    margin-top: 10px;
     width: 100px;
-    align-self: flex-end;
+    align-self: center;
     background-color: #5f6368;
     color: black;
     justify-self: center;
@@ -167,4 +168,14 @@ footer{
 }
 .company__name{
     text-decoration: underline;
+}
+.moree{
+    margin-top: 10px;
+    width: 100px;
+    align-self: center;
+    background-color: #5f6368;
+    color: black;
+    justify-self: center;
+    border-radius: 10%;
+    margin-right: 120px;
 }

@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Oswasld", sans-serif;
+}
+
+.header_content{
+    display: flex;
+    -webkit-justify-content: space-between;
+    align-items: center;
+
+}
+.logo__div{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000000;
+    padding-left: 100px;
+
+
+}
+.input__div{
+    display: flex;
+    width: 100px;
+    height: 20px;
+    align-items: center;
+    padding-right: 100px;
+
+}
+
+
+.menu__ul{
+    height: 50px;
+    background-color: #5f6368;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+
+.menu__a{
+    text-decoration: none;
+    color:#000000;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.menu__a:hover{
+     color:#34a853;
+ }
+
+.big__div{
+    display: flex;
+    flex-direction: row;
+}
+.left__part{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.left__info_number{
+    width: 150px;
+    padding-bottom: 15px;
+}
+.left__text_p{
+    width: 700px;
+    line-height: 25px;
+}
+.left__text_logo{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.left__info_text{
+    width: 300px;
+    padding-bottom: 20px;
+}
+.right__part{
+    padding-left: 300px;
+}
+.take{
+    width: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#four{
+    width: 500px;
+    height: 300px;
+}
+footer{
+    background-color: #5f6368;
+    height: 20%;
+    display: flex;
+    align-content: center;
+    animation: normal;
+    justify-content: center;
+}
+.company__name{
+    text-decoration: underline;
+}
+.button_s{
+    margin-right: 380px;
+}
+button{
+    width: 60px;
+    height: 30px;
+}

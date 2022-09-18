@@ -82,20 +82,98 @@
     display: flex;
     padding-top: 50px;
 }
-.second__part{
-    margin-left: 100px;
-}
-.who__ol{
-    line-height: 40px;
-    font-size: larger;
-}
-.orange__pic{
-    width: 200px;
-    height: 100px;
-}
 .second_u__text{
     width: 200px;
 }
 .menu__a:hover{
     color:#34a853;
+}
+.erste__1_img{
+    width: 900px;
+    padding-top: 20px;
+}
+.content{
+    margin-left: 50px;
+
+}
+span{
+    text-decoration: underline;
+    color: #1a73e8;
+}
+.erste__1_head{
+    padding-bottom: 20px;
+}
+.content_text{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 900px;
+    line-height: 20px;
+}
+.more{
+    margin-top: 20px;
+    background-color: #5f6368;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.erste{
+    display: flex;
+    flex-direction: row;
+}
+ol{
+    list-style-type: "\2611";
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.erste__2{
+    margin-left: 250px;
+    line-height: 40px;
+
+}
+.f__orange{
+    width: 300px;
+    margin-right: 20px;
+}
+.first__orange{
+    display: flex;
+    flex-direction:row;
+    padding-top: 50px;
+
+}
+.first__orange_date{
+    background-color: grey;
+    width: 120px;
+    border-radius: 20%;
+}
+.zweite{
+    display: flex;
+}
+footer{
+     background-color: #5f6368;
+     height: 20%;
+     display: flex;
+     align-content: center;
+     animation: normal;
+     justify-content: center;
+ }
+.company__name{
+    text-decoration: underline;
+    color: black;
+}
+.orange_logo{
+    color: #2962ff;
+}
+.orange_text{
+    font-size: medium;
+}
+.moree{
+    width: 100px;
+    margin-bottom: 20px;
+    margin-left: 80%;
+    margin-top: 20px;
+    background-color: #5f6368;
+}
+.testi{
+    padding-top: 150px;
 }
